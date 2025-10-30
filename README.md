@@ -41,7 +41,21 @@ A comprehensive college-level academic essay that follows the detailed outline s
 
 **Word count:** ~5,800 words
 
-### 3. **EssayStructure**
+### 3. **EssayOutline.md**
+A concise, reader-friendly outline of the complete essay. This outline summarizes the main arguments, key concepts, and structure of the full essay without all the detailed citations and explanations.
+
+**Contents:**
+- Thesis statement
+- All 10 major sections with key points
+- Core concepts and their definitions
+- The two-key model (Performance + Consent) explained
+- Guardrails for resolving tian li vs guo fa tension
+- Three practical caselets
+- Comparative advantages and objection responses
+
+**Word count:** ~1,291 words
+
+### 4. **EssayStructure**
 The detailed outline that guided the creation of the college-level essay. Contains the full structure with section purposes and key passages to cite.
 
 ## Reference Materials
@@ -68,9 +82,10 @@ Unlike Western divine right's ex ante sacralization of rule, Mencian tianming is
 ## How to Use These Files
 
 1. **Start with HighSchoolExplanation.md** if you want a clear, accessible introduction to the concepts
-2. **Read RevocableMandateConstitutionalism_Essay.md** for the complete academic treatment
-3. **Refer to EssayStructure** to see the organizational framework and key citations
-4. **Consult the reference PDFs** for deeper engagement with source materials
+2. **Review EssayOutline.md** for a quick overview of the essay's structure and main arguments
+3. **Read RevocableMandateConstitutionalism_Essay.md** for the complete academic treatment
+4. **Refer to EssayStructure** to see the detailed organizational framework and key citations used during drafting
+5. **Consult the reference PDFs** for deeper engagement with source materials
 
 ## Academic Context
 
