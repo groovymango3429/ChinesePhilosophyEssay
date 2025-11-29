@@ -136,7 +136,7 @@ These anthropological differences generate contrasting views of moral agency. Fo
 
 Confucian ethics grounds justice in proportionality and role-differentiated obligations. Analects 14:34's response to the question of repaying injury with kindness—"Then with what would you repay kindness? Repay injury with uprightness and kindness with kindness"—establishes a principle of proportional response. Uprightness (*zhi* 直) is not vengeance but fitting response: the wrongdoer is held accountable, not rewarded.
 
-Justice in the Confucian framework aims at restoring harmony and proper relationships. Punishment is conceived as educational and restorative rather than purely retributive. The goal is social reintegration, bringing the wrongdoer back into the web of relationships that constitute human flourishing. This is restorative justice avant la lettre.
+Justice in the Confucian framework aims at restoring harmony and proper relationships. Punishment is conceived as educational and restorative rather than purely retributive. The goal is social reintegration, bringing the wrongdoer back into the web of relationships that constitute human flourishing. This is restorative justice *avant la lettre*.
 
 Yet Confucian justice is also role-differentiated. The famous Analects 13:18 passage, where Confucius endorses father-son mutual concealment over legal testimony, illustrates how family loyalty can qualify legal universalism. "Among us, in our part of the country, those who are upright are different from this. The father conceals the misconduct of the son, and the son conceals the misconduct of the father. Uprightness is to be found in this" (trans. Lau). This creates a tension with impartial rule of law—a tension that Confucianism does not fully resolve but acknowledges as an enduring feature of ethical life.
 
@@ -162,7 +162,7 @@ To whom do I owe moral obligation, and how much? The two traditions answer diffe
 
 ### Confucian Boundaries: Gradation and Extension
 
-Confucianism acknowledges natural limits on moral obligation. Adam Smith's observation in *The Theory of Moral Sentiments* resonates with the Confucian view: while we may harbor general goodwill toward all humanity, our "effectual good offices"—our concrete capacity to help—are necessarily confined to those within our immediate circle (Smith, 1759/1976). We cannot care equally for all; to pretend otherwise is moral self-deception.
+Confucianism acknowledges natural limits on moral obligation. Adam Smith's observation in *The Theory of Moral Sentiments* resonates with the Confucian view: while we may harbor general goodwill toward all humanity, our "effectual good offices"—our concrete capacity to help—are necessarily confined to those within our immediate circle (Smith, 1759/1976, Part VI, Section II, Ch. 3). We cannot care equally for all; to pretend otherwise is moral self-deception.
 
 Mencius's critique of Mohist universal love rests on this point. Mo Zi's doctrine of "impartial love" (*jian ai* 兼爱) demands that we care for the neighbor's parent as much as our own parent. Mencius responds that this violates human nature: "Yang's principle is 'every man for himself.' This amounts to a denial of one's ruler. Mo's principle is 'love all equally.' This amounts to a denial of one's father. But to deny one's father or one's ruler is to be an animal" (Mencius 3B:9, trans. Lau). Graded love is not a concession to human weakness but an expression of human nature properly understood.
 
@@ -172,7 +172,7 @@ Extension (*tui*) offers an aspirational pathway. Zhang Zai's *Western Inscripti
 
 Christian ethics resists natural limits. The Parable of the Good Samaritan (Luke 10:25-37) directly addresses the question "Who is my neighbor?" A lawyer, seeking to justify limited obligation, asks Jesus to define neighbor. Jesus tells a story in which a Samaritan—a despised ethnic and religious outsider—is the one who shows mercy to a beaten Jewish traveler, while a Jewish priest and Levite pass by. "Which of these three do you think was a neighbor to the man who fell into the hands of robbers?" Jesus asks. The lawyer answers, "The one who had mercy on him." Jesus concludes: "Go and do likewise" (Luke 10:36-37, NIV). The neighbor is not defined by proximity or kinship but by need. Obligation extends to the stranger, the foreigner, even the enemy.
 
-The ultimate Christian standard is sacrificial: "Greater love has no one than this: to lay down one's life for one's friends" (John 15:13, NIV). The willingness to die for another represents the limit of love—and paradoxically, its fullest expression. Mother Teresa's maxim—"Love until it hurts"—captures this spirit.
+The ultimate Christian standard is sacrificial: "Greater love has no one than this: to lay down one's life for one's friends" (John 15:13, NIV). The willingness to die for another represents the limit of love—and paradoxically, its fullest expression. This spirit of radical self-giving—what some have called "loving until it hurts"—represents the extreme extension of Christian moral obligation.
 
 Yet even Christianity acknowledges some practical gradation. Paul writes: "Anyone who does not provide for their relatives, and especially for their own household, has denied the faith and is worse than an unbeliever" (1 Timothy 5:8, NIV). Here, special obligations to family are affirmed alongside universal love. The tension between universal *agape* and particular responsibility is not eliminated but held in creative tension.
 
@@ -198,7 +198,7 @@ Finally, does reciprocity reduce ethics to **enlightened self-interest**? If I t
 
 ### Strengths of Christian Self-Sacrifice
 
-Christian enemy-love has **transformative potential**. By absorbing injury without retaliation, it can break cycles of violence that reciprocal justice perpetuates. Martin Luther King Jr.'s philosophy of nonviolent resistance drew explicitly on Jesus's teaching: "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that" (King, 1963, p. 37). The practice of enemy-love in the civil rights movement demonstrated its power to transform unjust social structures.
+Christian enemy-love has **transformative potential**. By absorbing injury without retaliation, it can break cycles of violence that reciprocal justice perpetuates. Martin Luther King Jr.'s philosophy of nonviolent resistance drew explicitly on Jesus's teaching: "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that" (King, *Strength to Love*, 1963, p. 47). The practice of enemy-love in the civil rights movement demonstrated its power to transform unjust social structures.
 
 Christianity grounds **radical equality** in the equal love of God for all persons. "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus" (Galatians 3:28, NIV). This theological vision has been a resource for human rights discourse, abolitionism, and movements for social equality. The Confucian hierarchy of graded affection has no equivalent ground for universal equality.
 
